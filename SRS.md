@@ -40,10 +40,10 @@ Project - LazyPlants | Software Requirements Specification
 #Revision History
 -----
 
-|    Date    | Version | Description |
-|------------|---------|-------------|
-| 15.10.2020 |   1.0   |  topic 1-2  |
-| 28.10.2020 |   1.1   |new UCs in 3.1|
+| Date       | Version | Description    |
+| ---------- | ------- | -------------- |
+| 15.10.2020 | 1.0     | topic 1-2      |
+| 28.10.2020 | 1.1     | new UCs in 3.1 | 
 
 ## 1. Introduction
 ### 1.1 Purpose
