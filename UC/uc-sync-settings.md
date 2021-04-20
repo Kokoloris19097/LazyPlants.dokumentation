@@ -42,4 +42,4 @@ The main postconditions for this use case are:
 # 6. Function Points
 ![](../assets/fp-sync-settings.jpg)
 \
-**FP: 34,19** 
+**FP: 28,88** 

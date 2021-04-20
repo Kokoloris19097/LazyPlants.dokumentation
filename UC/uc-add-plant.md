@@ -11,8 +11,11 @@ Every user can add their plants that they want to either get watered automatical
 ![Mockup3](uc-add-plant-mockup-3.png)
 
 ## 1.3 Screenshot
-
-
+![](uc-add-plant-screenshot-1.png)
+![](uc-add-plant-screenshot-2.png)
+![](uc-add-plant-screenshot-3.png)
+![](uc-add-plant-screenshot-4.png)
+![](uc-add-plant-screenshot-5.png)
 
 # 2. Flow of Events
 
@@ -45,4 +48,6 @@ The main postconditions for this use case are:
  - The home page shows a new plant in the listview
 
 # 6. Function Points
-n/a
+![](../assets/fp-add-plant.jpg)
+\
+**FP: 51,52**
