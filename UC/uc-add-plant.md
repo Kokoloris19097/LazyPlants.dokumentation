@@ -6,13 +6,16 @@
 Every user can add their plants that they want to either get watered automatically or get a reminder to water them. First step is to register the ESP, after that the user needs to type in a name for it’s new plant. When adding the ESP and name happend, they can also insert a picture of the added plant.
 
 ## 1.2 Mockup
-![Mockup](uc-add-plant-mockup-1.png)
-![Mockup](uc-add-plant-mockup-2.png)
-![Mockup](uc-add-plant-mockup-3.png)
+![Mockup1](uc-add-plant-mockup-1.png)
+![Mockup2](uc-add-plant-mockup-2.png)
+![Mockup3](uc-add-plant-mockup-3.png)
 
 ## 1.3 Screenshot
-n/a
-
+![](uc-add-plant-screenshot-1.png)
+![](uc-add-plant-screenshot-2.png)
+![](uc-add-plant-screenshot-3.png)
+![](uc-add-plant-screenshot-4.png)
+![](uc-add-plant-screenshot-5.png)
 
 # 2. Flow of Events
 
@@ -45,4 +48,6 @@ The main postconditions for this use case are:
  - The home page shows a new plant in the listview
 
 # 6. Function Points
-n/a
+![](../assets/fp-add-plant.jpg)
+\
+**FP: 51,52**

@@ -15,6 +15,8 @@ Project - LazyPlants | Software Requirements Specification
   - [3. Specific Requirements](#3-specific-requirements)
     - [3.1 Functionality](#31-functionality)
       - [3.1.1 Add Plant](#311-add-plant)
+      - [3.1.2 Water Plants](#312-water-plants)
+      - [3.1.3 Sync Settings and Data](#313-sync-settings-and-data)
   - [3.2 Usability](#32-usability)
     - [3.2.1 Usability Requirement One](#321-usability-requirement-one)
   - [3.3 Reliability](#33-reliability)
@@ -40,10 +42,10 @@ Project - LazyPlants | Software Requirements Specification
 #Revision History
 -----
 
-|    Date    | Version | Description |
-|------------|---------|-------------|
-| 15.10.2020 |   1.0   |  topic 1-2  |
-| 28.10.2020 |   1.1   |new UCs in 3.1|
+| Date       | Version | Description    |
+| ---------- | ------- | -------------- |
+| 15.10.2020 | 1.0     | topic 1-2      |
+| 28.10.2020 | 1.1     | new UCs in 3.1 | 
 
 ## 1. Introduction
 ### 1.1 Purpose
@@ -96,6 +98,10 @@ Every user can add their plants that they want to either get watered automatical
 #### 3.1.2 Water Plants
 The user can start the watering mechanism manually. When the moisture of the plant is low, the app shows you that the plant needs water and that you can water them. When there is enough moisture, you can't water your plant. This pervents that the user overwaters their plants.
 [UC: Water Plants](./UC/uc-water-plants.md)
+	
+#### 3.1.3 Sync Settings and Data
+Every user should be able to access his/her data on every supported device. Therefore settings data and plants data should be accessible via the backend. That's how we want to assure a seemless user experience.
+[UC: Sync Settings](./UC/uc-sync-settings.md)
 
 ## 3.2 Usability
 [This section should include all of those requirements that affect usability. For example,
