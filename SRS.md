@@ -29,7 +29,7 @@ Project - LazyPlants | Software Requirements Specification
       - [3.6.1 Design](#361-Design)
       - [3.6.2 Database](#362-Database)
       - [3.6.3 Language](#363-Language)
-      - [3.6.1 Architecture](#361-Architecture)
+      - [3.6.4 Architecture](#364-Architecture)
     - [3.7 On-line User Documentation and Help System Requirements](#37-on-line-user-documentation-and-help-system-requirements)
     - [3.8 Purchased Components](#38-purchased-components)
     - [3.9 Interfaces](#39-interfaces)
