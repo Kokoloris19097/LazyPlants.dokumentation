@@ -59,21 +59,16 @@ n/a
 #### 5.1.1	Function and Database Integrity Testing
 n/a
 
-#### 5.1.2	Unit Testing
-n/a
-#### 5.1.3	Business Cycle Testing
-n/a
 
-#### 5.1.4	User Interface Testing
+#### 5.1.2	Unit Testing
 |||
 |---|---|
 |Technique Objective|Every service request shall be done correctly. Possible exceptions are caught correctly.|
-|Technique|Integration tests on the rendered UI|
+|Technique|Unit testing the widgets|
 |Oracles|user enter valid data, for example a valid username and a valid password|
-|Required Tools|flutter_test_diver|
+|Required Tools|Flutter test|
 |Success Criteria|successful scenarios, all tests will pass, no strange behaviour will occur|
 |Special Consideration|-|
-
 #### 5.1.3	Business Cycle Testing
 n/a
 
