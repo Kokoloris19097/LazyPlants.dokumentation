@@ -30,7 +30,6 @@ This document is meant for internal use primarily.
 | [UC1 Add Plant](https://github.com/Kokoloris19097/LazyPlants.dokumentation/blob/master/UC/uc-add-plant.md) |
 | [UC2 Water Plant](https://github.com/Kokoloris19097/LazyPlants.dokumentation/blob/master/UC/uc-water-plants.md) |
 | [UC3 Sync Settings and Data](https://github.com/Kokoloris19097/LazyPlants.dokumentation/blob/master/UC/uc-sync-settings.md) |
-) |
 
 ## 2.	Evaluation Mission and Test Motivation
 ### 2.1	Background
