@@ -33,24 +33,25 @@ This document is meant for internal use primarily.
 
 ## 2.	Evaluation Mission and Test Motivation
 ### 2.1	Background
-By testing our project, we make sure that all changes to the sourcecode do not break the functionality. Also by integrating the test process in our deployment process, we make sure that only working versions of our project getting deployed. So the web application is always available.
+By testing our project, we make sure that all changes to the sourcecode do not break the functionality. Also by integrating the test process in our deployment process, we make sure that only working versions of our project getting deployed.
 ### 2.2	Evaluation Mission
+n/a
 ### 2.3	Test Motivators
 Our testing is motivated by 
 - quality risks 
-- technical risks, 
+- technical risks 
 - use cases 
 - functional requirements
 
 ## 3.	Target Test Items
-
+n/a
 ## 4.	Outline of Planned Tests
 ### 4.1	Outline of Test Inclusions
-Unit testing the Java backend, functional testing of the Web frontend and database integrity
+n/a
 ### 4.2	Outline of Other Candidates for Potential Inclusion
-Stress testing the application
+n/a
 ### 4.3 Outline of Test Exclusions
-What we are not planning to do is attack simulation. 
+n/a
 
 #### 5.1.3	Business Cycle Testing
 n/a
@@ -65,41 +66,16 @@ n/a
 |Success Criteria|successful scenarios, all tests will pass, no strange behaviour will occur|
 |Special Consideration|-|
 
-## 2.	Evaluation Mission and Test Motivation
-### 2.1	Background
-By testing our project, we make sure that all changes to the sourcecode do not break the functionality. Also by integrating the test process in our deployment process, we make sure that only working versions of our project getting deployed.
-### 2.2	Evaluation Mission
-n/a
-### 2.3	Test Motivators
-Our testing is motivated by 
-- quality risks 
-- technical risks 
-- use cases 
-- functional requirements
-
-## 3.	Target Test Items
+#### 5.1.3	Business Cycle Testing
 n/a
 
-## 4.	Outline of Planned Tests
-n/a
-### 4.1	Outline of Test Inclusions
-n/a
-### 4.2	Outline of Other Candidates for Potential Inclusion
-n/a
-### 4.3 Outline of Test Exclusions
-n/a
-
-## 5.	Test Approach
-### 5.1 Initital Test-Idea Catalogs and Other Reference Sources
-**n/a**
-#### 5.1.2	Unit Testing
-
+#### 5.1.4	User Interface Testing
 |||
 |---|---|
 |Technique Objective|Every service request shall be done correctly. Possible exceptions are caught correctly.|
-|Technique|Unit testing the widgets|
+|Technique|Integration tests on the rendered UI|
 |Oracles|user enter valid data, for example a valid username and a valid password|
-|Required Tools|Flutter test|
+|Required Tools|flutter_test_diver|
 |Success Criteria|successful scenarios, all tests will pass, no strange behaviour will occur|
 |Special Consideration|-|
 
