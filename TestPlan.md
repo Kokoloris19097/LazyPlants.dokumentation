@@ -57,8 +57,14 @@ n/a
 ### 5.1	Testing Techniques and Types
 n/a
 #### 5.1.1	Function and Database Integrity Testing
-n/a
-
+|||
+|---|---|
+|Technique Objective|Every service request shall be done correctly. Possible exceptions are caught correctly.|
+|Technique|Unit testing the widgets|
+|Oracles|user enter valid data, for example a valid username and a valid password|
+|Required Tools|Flutter test|
+|Success Criteria|successful scenarios, all tests will pass, no strange behaviour will occur|
+|Special Consideration|-|
 
 #### 5.1.2	Unit Testing
 |||
