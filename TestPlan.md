@@ -24,20 +24,12 @@ This document is meant for internal use primarily.
 ### 1.5	 References
 | Reference        | 
 | ------------- |
-| [Blog](https://https://mfj-testing.com/) | 
-| [Function Points](https://gitlab.com/sasep-clairvoyance/sasep-documents/-/wikis/Function-Points) |
-| [SRS](https://gitlab.com/sasep-clairvoyance/sasep-documents/-/wikis/SRS) |
-| [SAD](https://gitlab.com/sasep-clairvoyance/sasep-documents/-/wikis/SAD) |
-| [UC1 Become a contributor](https://gitlab.com/sasep-clairvoyance/sasep-documents/-/wikis/UC/Become-a-contributor) |
-| [UC2 Calculate ELOs](https://gitlab.com/sasep-clairvoyance/sasep-documents/-/wikis/UC/Calculate-ELOs) |
-| [UC3 Collect public data](https://gitlab.com/sasep-clairvoyance/sasep-documents/-/wikis/UC/Collect-public-data) |
-| [UC4 Customize Interests](https://gitlab.com/sasep-clairvoyance/sasep-documents/-/wikis/UC/Customize-Interests) |
-| [UC5 Predict result](https://gitlab.com/sasep-clairvoyance/sasep-documents/-/wikis/UC/Predict-result) |
-| [UC6 Read news](https://gitlab.com/sasep-clairvoyance/sasep-documents/-/wikis/UC/Read-news) |
-| [UC7 Registration and Login](https://gitlab.com/sasep-clairvoyance/sasep-documents/-/wikis/UC/Registration-and-Login) |
-| [UC8 View our data](https://gitlab.com/sasep-clairvoyance/sasep-documents/-/wikis/UC/View-our-data) |
-| [UC9 Write blog article](https://gitlab.com/sasep-clairvoyance/sasep-documents/-/wikis/UC/Write-blog-article) |
-| [UC10 Write a comment](https://gitlab.com/sasep-clairvoyance/sasep-documents/-/wikis/UC/Write-a-comment) |
+| [Blog](https://lazysmartplants.wordpress.com/) | 
+| [SRS](https://github.com/Kokoloris19097/LazyPlants.dokumentation/blob/master/SRS.md) |
+| [SAD](https://github.com/Kokoloris19097/LazyPlants.dokumentation/blob/master/SAD.md) |
+| [UC1 Add Plant](https://github.com/Kokoloris19097/LazyPlants.dokumentation/blob/master/UC/uc-add-plant.md) |
+| [UC2 Water Plant](https://github.com/Kokoloris19097/LazyPlants.dokumentation/blob/master/UC/uc-water-plants.md) |
+| [UC3 Sync Settings and Data](https://github.com/Kokoloris19097/LazyPlants.dokumentation/blob/master/UC/uc-sync-settings.md) |
 ) |
 
 ## 2.	Evaluation Mission and Test Motivation
