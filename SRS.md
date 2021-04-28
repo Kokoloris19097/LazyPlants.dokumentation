@@ -145,12 +145,18 @@ class libraries, maintenance access, maintenance utilities.]
 [The requirement description goes here.]
 
 ### 3.6 Design Constraints
-[This section should indicate any design constraints on the system being built. Design constraints represent design decisions that have been mandated and must be adhered to.  
-Examples include software languages, software process requirements, prescribed use of developmental tools, architectural and design constraints, purchased components, class 
-libraries, etc.]
+3.6.1 Design
 
-#### 3.6.1 {Design Constraint One}
-[The requirement description goes here.]
+The app design will follow a simple but modern structure. In order to achieve an individual and optimal look, connected to a comfortable use, we will offer a lot of possibilities to individualize settings, shown diagrams, sorting-categories and notifications.
+3.6.2 Database
+
+As database a NO SQL database will be used (MongoDB).
+3.6.3 Language
+
+As coding language JavaScript and TypeScipt will be used for the Backend, C++ for the ESp Microcontroller and Flutter/Dart for the Application.
+3.6.4 Architecture
+
+The Backend will be only logical separated from the frontend.
 
 ### 3.7 On-line User Documentation and Help System Requirements
 [Describes the requirements, if any, for on-line user documentation, help systems, help about notices, etc.]
