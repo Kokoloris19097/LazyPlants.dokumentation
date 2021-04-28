@@ -104,16 +104,16 @@ The user can start the watering mechanism manually. When the moisture of the pla
 Every user should be able to access his/her data on every supported device. Therefore settings data and plants data should be accessible via the backend. That's how we want to assure a seemless user experience.
 [UC: Sync Settings](./UC/uc-sync-settings.md)
 
-## 3.2 Usability
+### 3.2 Usability
 [This section should include all of those requirements that affect usability. For example,
  - specify the required training time for a normal users and a power user to become productive at particular operations
  - specify measurable task times for typical tasks or base the new system�s usability requirements on other systems that the users know and like
  - specify requirement to conform to common usability standards, such as IBM�s CUA standards Microsoft�s GUI standards]
 
-### 3.2.1 Usability Requirement One
+#### 3.2.1 Usability Requirement One
 [The requirement description goes here.]
 
-## 3.3 Reliability
+### 3.3 Reliability
 [Requirements for reliability of the system should be specified here. Some suggestions follow:
  - Availability�specify the percentage of time available ( xx.xx%), hours of use, maintenance access, degraded mode operations, etc.
  - Mean Time Between Failures (MTBF) � this is usually specified in hours, but it could also be specified in terms of days, months or years.
@@ -123,10 +123,10 @@ Every user should be able to access his/her data on every supported device. Ther
  - Bugs or Defect Rate�categorized in terms of minor, significant, and critical bugs: the requirement(s) must define what is meant by a �critical� bug; for example, complete 
    loss of data or a complete inability to use certain parts of the system�s functionality.]
 
-### 3.3.1 Reliability Requirement One
+#### 3.3.1 Reliability Requirement One
 [The requirement description.]
 
-## 3.4 Perfomance
+### 3.4 Perfomance
 [The system�s performance characteristics should be outlined in this section. Include specific response times. Where applicable, reference related Use Cases by name.
  - response time for a transaction (average, maximum)
  - throughput, for example, transactions per second
@@ -134,7 +134,7 @@ Every user should be able to access his/her data on every supported device. Ther
  - degradation modes (what is the acceptable mode of operation when the system has been degraded in some manner)
  - resource utilization, such as memory, disk, communications, etc.
 
-### 3.4.1 Performance Requirement One
+#### 3.4.1 Performance Requirement One
 [The requirement description goes here.]
 
 ### 3.5 Supportability
