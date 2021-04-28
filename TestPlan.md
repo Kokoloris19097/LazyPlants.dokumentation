@@ -31,6 +31,19 @@ This document is meant for internal use primarily.
 | [UC2 Water Plant](https://github.com/Kokoloris19097/LazyPlants.dokumentation/blob/master/UC/uc-water-plants.md) |
 | [UC3 Sync Settings and Data](https://github.com/Kokoloris19097/LazyPlants.dokumentation/blob/master/UC/uc-sync-settings.md) |
 
+#### 5.1.3	Business Cycle Testing
+n/a
+
+#### 5.1.4	User Interface Testing
+|||
+|---|---|
+|Technique Objective|Every service request shall be done correctly. Possible exceptions are caught correctly.|
+|Technique|Integration tests on the rendered UI|
+|Oracles|user enter valid data, for example a valid username and a valid password|
+|Required Tools|flutter_test_diver|
+|Success Criteria|successful scenarios, all tests will pass, no strange behaviour will occur|
+|Special Consideration|-|
+
 ## 2.	Evaluation Mission and Test Motivation
 ### 2.1	Background
 By testing our project, we make sure that all changes to the sourcecode do not break the functionality. Also by integrating the test process in our deployment process, we make sure that only working versions of our project getting deployed.
