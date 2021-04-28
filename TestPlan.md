@@ -60,9 +60,9 @@ n/a
 |||
 |---|---|
 |Technique Objective|Every service request shall be done correctly. Possible exceptions are caught correctly.|
-|Technique|Unit testing the widgets|
+|Technique|Endpoint Tests|
 |Oracles|user enter valid data, for example a valid username and a valid password|
-|Required Tools|Flutter test|
+|Required Tools|Postman Test|
 |Success Criteria|successful scenarios, all tests will pass, no strange behaviour will occur|
 |Special Consideration|-|
 
