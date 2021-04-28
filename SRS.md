@@ -72,6 +72,7 @@ Our goal for this semester is to connect all hardware so that data can be exchan
 | [Use Case Diagram LazyPlants](https://lazysmartplants.files.wordpress.com/2020/10/untitled-diagram-2.png?w=1024)| 15.10.2020 | LazyPlants |
 | [Activity Diagram Add Plant](https://lazysmartplants.files.wordpress.com/2020/10/use-case-1-2.png)| 28.10.2020 | LazyPlants |
 | [Activity Diagram Water Plants](https://lazysmartplants.files.wordpress.com/2020/10/use-case-12.png)| 28.10.2020 | LazyPlants |
+| [Activity Diagram Dashboard](https://raw.githubusercontent.com/Kokoloris19097/LazyPlants.dokumentation/master/UC/Use%20Case%205%20-%20Dashboard.jpg)| 20.04.2020 | LazyPlants |
 | --------------------------------------------------------------------------------|:----------:| ------------------------- |
 
 
