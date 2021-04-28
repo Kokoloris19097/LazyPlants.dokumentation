@@ -31,6 +31,27 @@ This document is meant for internal use primarily.
 | [UC2 Water Plant](https://github.com/Kokoloris19097/LazyPlants.dokumentation/blob/master/UC/uc-water-plants.md) |
 | [UC3 Sync Settings and Data](https://github.com/Kokoloris19097/LazyPlants.dokumentation/blob/master/UC/uc-sync-settings.md) |
 
+## 2.	Evaluation Mission and Test Motivation
+### 2.1	Background
+By testing our project, we make sure that all changes to the sourcecode do not break the functionality. Also by integrating the test process in our deployment process, we make sure that only working versions of our project getting deployed. So the web application is always available.
+### 2.2	Evaluation Mission
+### 2.3	Test Motivators
+Our testing is motivated by 
+- quality risks 
+- technical risks, 
+- use cases 
+- functional requirements
+
+## 3.	Target Test Items
+
+## 4.	Outline of Planned Tests
+### 4.1	Outline of Test Inclusions
+Unit testing the Java backend, functional testing of the Web frontend and database integrity
+### 4.2	Outline of Other Candidates for Potential Inclusion
+Stress testing the application
+### 4.3 Outline of Test Exclusions
+What we are not planning to do is attack simulation. 
+
 #### 5.1.3	Business Cycle Testing
 n/a
 
