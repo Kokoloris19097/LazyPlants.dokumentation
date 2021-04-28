@@ -104,16 +104,6 @@ n/a
 n/a
 
 #### 5.1.12	Installation Testing
-|||
-|---|---|
-|Technique|User installs the app on his device|
-|Required Tools|Andriod-Phone|
-|Success Criteria|User would use the App in private|
-
-##### 5.1.12.1 User Feedback
-implement standing orders / execute transactions cyclic
-use biometric authentication to replace Password
-
 
 ## 6.	Entry and Exit Criteria
 ### 6.1	Test Plan
