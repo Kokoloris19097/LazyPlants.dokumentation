@@ -53,6 +53,14 @@ n/a
 ### 4.3 Outline of Test Exclusions
 n/a
 
+## 5.	Test Approach
+### 5.1	Testing Techniques and Types
+n/a
+#### 5.1.1	Function and Database Integrity Testing
+n/a
+
+#### 5.1.2	Unit Testing
+n/a
 #### 5.1.3	Business Cycle Testing
 n/a
 
