@@ -145,16 +145,16 @@ class libraries, maintenance access, maintenance utilities.]
 [The requirement description goes here.]
 
 ### 3.6 Design Constraints
-3.6.1 Design
+####3.6.1 Design
 
 The app design will follow a simple but modern structure. In order to achieve an individual and optimal look, connected to a comfortable use, we will offer a lot of possibilities to individualize settings, shown diagrams, sorting-categories and notifications.
-3.6.2 Database
+####3.6.2 Database
 
 As database a NO SQL database will be used (MongoDB).
-3.6.3 Language
+####3.6.3 Language
 
 As coding language JavaScript and TypeScipt will be used for the Backend, C++ for the ESp Microcontroller and Flutter/Dart for the Application.
-3.6.4 Architecture
+####3.6.4 Architecture
 
 The Backend will be only logical separated from the frontend.
 
