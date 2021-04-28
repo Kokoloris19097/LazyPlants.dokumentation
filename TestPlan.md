@@ -44,7 +44,7 @@ Our testing is motivated by
 - functional requirements
 
 ## 3.	Target Test Items
-n/a
+
 ## 4.	Outline of Planned Tests
 ### 4.1	Outline of Test Inclusions
 n/a
@@ -155,8 +155,6 @@ n/a
 ## 8.	Testing Workflow
 
 ## 9.	Environmental Needs
-n/a
-
 ### 9.1	Base System Hardware
 n/a
 
