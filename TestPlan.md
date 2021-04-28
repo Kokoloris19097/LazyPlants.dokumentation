@@ -38,7 +38,7 @@ By testing our project, we make sure that all changes to the sourcecode do not b
 ### 2.3	Test Motivators
 Our testing is motivated by 
 - quality risks 
-- technical risks, 
+- technical risks 
 - use cases 
 - functional requirements
 
