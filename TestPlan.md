@@ -82,45 +82,38 @@ n/a
 |Success Criteria|successful scenarios, all tests will pass, no strange behaviour will occur|
 |Special Consideration|-|
 
-### 5.2	Testing Techniques and Types
-#### 5.2.1	Database Integrity Testing
-**n/a**
+#### 5.1.5	Performance Profiling 
+n/a
 
-#### 5.2.2 Function Testing
-**n/a**
+#### 5.1.6	Load Testing
+n/a
 
-#### 5.2.3 Business Cycle Testing
-**n/a**
+#### 5.1.7	Stress Testing
+n/a
+ 
+#### 5.1.8	Volume Testing
+n/a
 
-#### 5.2.4 User Interface Testing
-**n/a**
+#### 5.1.9	Security and Access Control Testing
+tbd
 
-#### 5.2.5 Performance Profiling 
-**n/a**
+#### 5.1.10	Failover and Recovery Testing
+n/a
 
-#### 5.2.6 Load Testing
-**n/a**
+#### 5.1.11	Configuration Testing
+n/a
 
-#### 5.2.7 Stress Testing
-**n/a**
+#### 5.1.12	Installation Testing
+|||
+|---|---|
+|Technique|User installs the app on his device|
+|Required Tools|Andriod-Phone|
+|Success Criteria|User would use the App in private|
 
-#### 5.2.8	Volume Testing
-**n/a**
+##### 5.1.12.1 User Feedback
+implement standing orders / execute transactions cyclic
+use biometric authentication to replace Password
 
-#### 5.2.9	Security and Access Control Testing
-**n/a**
-
-#### 5.2.10	Failover and Recovery Testing
-**n/a**
-
-#### 5.2.11	Configuration Testing
-**n/a**
-
-#### 5.2.12	Installation Testing
-**n/a**
-
-#### 5.2.13	Field Testing
-**n/a**
 
 ## 6.	Entry and Exit Criteria
 ### 6.1	Test Plan
