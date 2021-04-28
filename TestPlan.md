@@ -61,6 +61,7 @@ n/a
 #### 5.1.2	Unit Testing
 
 |||
+|---|---|
 |Technique Objective|Every service request shall be done correctly. Possible exceptions are caught correctly.|
 |Technique|Unit testing the widgets|
 |Oracles|user enter valid data, for example a valid username and a valid password|
