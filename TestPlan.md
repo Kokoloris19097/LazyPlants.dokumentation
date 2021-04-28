@@ -35,6 +35,7 @@ This document is meant for internal use primarily.
 ### 2.1	Background
 By testing our project, we make sure that all changes to the sourcecode do not break the functionality. Also by integrating the test process in our deployment process, we make sure that only working versions of our project getting deployed.
 ### 2.2	Evaluation Mission
+n/a
 ### 2.3	Test Motivators
 Our testing is motivated by 
 - quality risks 
@@ -43,21 +44,33 @@ Our testing is motivated by
 - functional requirements
 
 ## 3.	Target Test Items
+n/a
 
 ## 4.	Outline of Planned Tests
+n/a
 ### 4.1	Outline of Test Inclusions
-Unit testing the Java backend, functional testing of the Web frontend and database integrity
+n/a
 ### 4.2	Outline of Other Candidates for Potential Inclusion
-Stress testing the application
+n/a
 ### 4.3 Outline of Test Exclusions
-What we are not planning to do is attack simulation. 
+n/a
 
 ## 5.	Test Approach
 ### 5.1 Initital Test-Idea Catalogs and Other Reference Sources
 **n/a**
+#### 5.1.2	Unit Testing
+|||
+|---|---|
+|Technique Objective|Every service request shall be done correctly. Possible exceptions are caught correctly.|
+|Technique|Unit testing the widgets|
+|Oracles|user enter valid data, for example a valid username and a valid password|
+|Required Tools|Flutter test|
+|Success Criteria|successful scenarios, all tests will pass, no strange behaviour will occur|
+|Special Consideration|-|
+
 ### 5.2	Testing Techniques and Types
 #### 5.2.1	Database Integrity Testing
-
+n/a
 #### 5.2.2 Function Testing
 
 #### 5.2.3 Business Cycle Testing
