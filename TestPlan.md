@@ -33,7 +33,7 @@ This document is meant for internal use primarily.
 
 ## 2.	Evaluation Mission and Test Motivation
 ### 2.1	Background
-By testing our project, we make sure that all changes to the sourcecode do not break the functionality. Also by integrating the test process in our deployment process, we make sure that only working versions of our project getting deployed. So the web application is always available.
+By testing our project, we make sure that all changes to the sourcecode do not break the functionality. Also by integrating the test process in our deployment process, we make sure that only working versions of our project getting deployed.
 ### 2.2	Evaluation Mission
 ### 2.3	Test Motivators
 Our testing is motivated by 
