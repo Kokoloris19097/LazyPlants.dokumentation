@@ -91,28 +91,28 @@ Our vision is to create an automatic plant watering system for all those that ca
 
 ### 2.3 Technology Stack
 The technologies we use are:
-RestApi:
+[RestApi:
 - LoopBack4
-- MongoDB Database
-Frontend:
+- MongoDB Database]
+[Frontend:
 - Flutter
-- Dart
-IDE:
+- Dart]
+[IDE:
 - VS Code
 - IntelliJ
-- Arduino IDE
-Project Management:
+- Arduino IDE]
+[Project Management:
 - Jira
 - YouTrack
-- GitHub
-Deployment:
+- GitHub]
+[Deployment:
 - Github Actions
-- Docker
-Quality:
-- ...
-Testing:
+- Docker]
+[Quality:
+- ...]
+[Testing:
 - Flutter
-- Postman
+- Postman]
 
 ## 3. Specific Requirements
 This section will list all functional requirements for "LazyPlants" and explains their functionality. Each of the following subsections represents a subsystem of our app.
