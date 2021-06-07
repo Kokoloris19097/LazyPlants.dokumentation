@@ -3,7 +3,7 @@
 # 1. Monitoring
 
 ## 1.1 Brief Description
-When the user selects one of his plants on the homescreen, he gets an overview of the selected plant.
+When the user selects one of his plants on the homescreen, he gets an overview of the selected plant. The user can filter the data he wants based on the set time span.
 
 ## 1.2 Mockup
 ![](https://raw.githubusercontent.com/Kokoloris19097/LazyPlants.dokumentation/master/UC/plant%20editing.png)
