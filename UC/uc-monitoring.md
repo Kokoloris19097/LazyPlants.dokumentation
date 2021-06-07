@@ -6,7 +6,7 @@
 When the user selects one of his plants on the homescreen, he gets an overview of the selected plant.
 
 ## 1.2 Mockup
-n/a
+![](https://raw.githubusercontent.com/Kokoloris19097/LazyPlants.dokumentation/master/UC/plant%20editing.png)
 
 ## 1.3 Screenshot
 n/a
