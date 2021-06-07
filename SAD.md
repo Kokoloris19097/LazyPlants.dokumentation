@@ -34,7 +34,7 @@ The scope of this SAD is to show the architecture of the project. Affected are t
 ![Use Case Diagram Water Plant](./UC/uc-water-plants.png)
 
 ### UC: Measure
-![UC Measure](./UC/uc3-measure.jpg)
+![UC Measure](./UC/uc3-measure.png)
 
 ### UC: Sync Settings and Data
 ![UC Sync Settings](./UC/uc-sync-settings.png)
