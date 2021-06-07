@@ -16,7 +16,7 @@ n/a
 ## 2.1 Basic Flow
 
 ### Activity Diagram
-![]()
+![](https://raw.githubusercontent.com/Kokoloris19097/LazyPlants.dokumentation/master/UC/uc-measure.png)
 
 # 3. Special Requirements
 - login/logout-UC has to be implemented
