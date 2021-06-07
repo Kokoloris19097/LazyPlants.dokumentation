@@ -24,8 +24,27 @@ The scope of this SAD is to show the architecture of the project. Affected are t
 
 
 ## 4. Use-Case View 
+### Overview
+![ucd](./UC/ucd.jpg)
+
+### UC: Add Plant
 ![Use Case Diagram ADD Plant](./UC/uc-add-plant.png)
+
+### UC: Water Plant
 ![Use Case Diagram Water Plant](./UC/uc-water-plants.png)
+
+### UC: Measure
+![UC Measure](./UC/uc3-measure.jpg)
+
+### UC: Sync Settings and Data
+![UC Sync Settings](./UC/uc-sync-settings.png)
+![UC Sync Settings alternative flow](./UC/uc-sync-settings-alternative.png)
+
+### UC: Monitoring
+![UC monitoring](./UC/uc-monitoring.png)
+
+### UC: Live Dashboard
+![UC live dashboard](./UC/uc-live-dashboard.png)
 
 ## 5. Logical View
 ![MVC-UML](https://raw.githubusercontent.com/Kokoloris19097/LazyPlants.dokumentation/master/UML/out/class_diagram_20201208.png)
@@ -48,4 +67,5 @@ The scope of this SAD is to show the architecture of the project. Affected are t
 
 
 ## 11. Quality
-
+For this project we are using the MVC pattern. It helps us to maintain a stable codebase. Additionaly we are using Continous Integration for testing. Every pull request gets peer reviewed to ensure the best code quality possible. 
+We also use metrics (dart_metrics) to get a better understanding of our code complexity etc.

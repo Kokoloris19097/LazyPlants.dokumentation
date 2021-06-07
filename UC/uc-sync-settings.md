@@ -1,6 +1,6 @@
 # Use-Case Specification: Sync Settings and Data
 
-# 1. Add Plant
+# 1. Sync Settings and Data 
 
 ## 1.1 Brief Description
 Every user should be able to access his/her data on every supported device. Therefore settings data and plants data should be accessible via the backend. That's how we want to assure a seemless user experience.

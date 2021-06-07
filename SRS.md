@@ -180,19 +180,30 @@ class libraries, maintenance access, maintenance utilities.]
 ### 3.6 Design Constraints
 #### 3.6.1 Design
 
-The app design will follow a simple but modern structure. In order to achieve an individual and optimal look, connected to a comfortable use, we will offer a lot of possibilities to individualize settings, shown diagrams, sorting-categories and notifications.
+The app design will follow a simple but modern structure. In order to achieve an individual and optimal look, connected to a comfortable use, we will offer a lot of possibilities to enhance the user experience. The user should be able to  individualize his settings, get insights with the help of diagrams and get notified when for example the user has to refill the watertank.
+
 #### 3.6.2 Database
 
-As database a SQL database will be used (MySQL).
+As we use Loopback as our backend service of choice, we have the opportunity to choose any of the major databases. However we finally chose MySQL to structure and store our data.
+
 #### 3.6.3 Language
 
-As coding language JavaScript and TypeScipt will be used for the Backend, C++ for the ESp Microcontroller and Flutter/Dart for the Application.
+The project consists of multiple services that run on different platforms. For our backend service, we are using Loopback 4, which uses TypeScript. The software for MCUs is written in C++ (Arduino), because it's the most widely used language for MCUs.
+Finally we use Google's UI toolkit Flutter for our mobile app. The programming language used by Flutter is Dart. Flutter allows us to compile our app for several different OSes and environments such as iOS, Android, Web, macOS, Windows and Linux.
+
 #### 3.6.4 Architecture
 
-The Backend will be only logical separated from the frontend.
+The LazyPlants project can be devided in three parts: 
+	1. MCU (Arduino/ESP32)
+	2. Backend (LoopBack 4)
+	3. Frontend (Flutter-App)
+	
+Both the microcontroller and the frontend connect to our backend to store and recieve data. The backend is designed to be open to anyone, but at the same time to be secure. The user is be able to use our API in order to create solutions for his own use cases.  
 
 ### 3.7 On-line User Documentation and Help System Requirements
-[Describes the requirements, if any, for on-line user documentation, help systems, help about notices, etc.]
+- For Developers: [all the necessary documentation](https://github.com/Kokoloris19097/LazyPlants.dokumentation)
+- For Users: [please refer to our README](https://github.com/jdk-21/lazyplants)
+
 
 ### 3.8 Purchased Components
 #### Hardware:

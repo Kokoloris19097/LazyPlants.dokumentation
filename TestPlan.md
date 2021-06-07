@@ -183,11 +183,12 @@ This table shows the staffing assumptions for the test effort.
 n/a
 ## 11.	Iteration Milestones
 
-| Milestone | Planned Start Date | Actual Start Date | Planned End Date | Actual End Date |
-|---|---|---|---|---|
-| Have Unit Tests |  |    |    |    |
-| 20% coverage |  |    |    |    |
-| Tests integrated in CI |  |  |  |  |
+| Milestone              | Planned Start Date | Actual Start Date | Planned End Date | Actual End Date |
+| ---------------------- | ------------------ | ----------------- | ---------------- | --------------- | 
+| Have Unit Tests        | 2021-04-28         | 2021-04-28        | 2021-05-02       | 2021-05-02      |    
+| 20% coverage           | 2021-04-28         | 2021-04-28        | 2021-05-08       | 2021-05-15      |  
+| 40% coverage           | 2021-05-09         | 2021-05-15        | 2021-05-26       | 2021-05-25      |    
+| Tests integrated in CI | 2021-04-28         | 2021-04-28        | 2021-04-28       | 2021-04-28      |
 
 
 ## 12.	Risks, Dependencies, Assumptions, and Constraints
