@@ -47,7 +47,7 @@ The scope of this SAD is to show the architecture of the project. Affected are t
 ![UC live dashboard](./UC/uc-live-dashboard.png)
 
 ## 5. Logical View
-![MVC-UML](https://raw.githubusercontent.com/Kokoloris19097/LazyPlants.dokumentation/master/UML/out/class_diagram_20201208.png)
+![MVC-UML](https://raw.githubusercontent.com/Kokoloris19097/LazyPlants.dokumentation/master/UC/Use-Case-Diagram.png)
 
 
 ## 6. Process View
