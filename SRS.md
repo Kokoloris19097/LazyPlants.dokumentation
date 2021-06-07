@@ -42,7 +42,7 @@ Project - LazyPlants | Software Requirements Specification
     - [3.12 Applicable Standards](#312-applicable-standards)
   - [4. Supporting Information](#4-supporting-information)
 
-#Revision History
+# Revision History
 -----
 
 | Date       | Version | Description    |
