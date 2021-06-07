@@ -90,7 +90,37 @@ Our vision is to create an automatic plant watering system for all those that ca
 ![Use Case Diagram](./UC/Use-Case-Diagram.png)
 
 ### 2.3 Technology Stack
-to be determined (tbd)
+The technologies we use are:
+
+RestApi:
+- LoopBack4
+- MongoDB Database
+
+Frontend:
+- Flutter
+- Dart
+
+IDE:
+- VS Code
+- IntelliJ
+- Arduino IDE
+
+Project Management:
+
+- Jira
+- YouTrack
+- GitHub
+
+Deployment:
+- Github Actions
+- Docker
+
+Quality:
+- ...
+
+Testing:
+- Flutter
+- Postman
 
 ## 3. Specific Requirements
 This section will list all functional requirements for "LazyPlants" and explains their functionality. Each of the following subsections represents a subsystem of our app.
@@ -153,7 +183,7 @@ class libraries, maintenance access, maintenance utilities.]
 The app design will follow a simple but modern structure. In order to achieve an individual and optimal look, connected to a comfortable use, we will offer a lot of possibilities to individualize settings, shown diagrams, sorting-categories and notifications.
 #### 3.6.2 Database
 
-As database a NO SQL database will be used (MongoDB).
+As database a SQL database will be used (MySQL).
 #### 3.6.3 Language
 
 As coding language JavaScript and TypeScipt will be used for the Backend, C++ for the ESp Microcontroller and Flutter/Dart for the Application.
@@ -165,8 +195,21 @@ The Backend will be only logical separated from the frontend.
 [Describes the requirements, if any, for on-line user documentation, help systems, help about notices, etc.]
 
 ### 3.8 Purchased Components
-[This section describes any purchased components to be used with the system, any applicable licensing or usage restrictions, and any associated compatibility and interoperability or 
-interface standards.]
+#### Hardware:
+- ESP 32 ([ESP32 NodeMCU Development Board](https://www.berrybase.de/raspberry-pi-co/esp8266-esp32-d1-mini/esp32-nodemcu-development-board))
+- Ultrasonic sensor ([HC-SR04](https://www.berrybase.de/raspberry-pi-co/sensoren-module/bewegung-distanz/hc-sr04-ultraschall-sensor))
+- [DHT22](https://www.berrybase.de/raspberry-pi-co/sensoren-module/feuchtigkeit/dht22-digitaler-temperatur-und-luftfeuchtessensor-mit-breakout-board-jumperkabeln-40-f-f-41) with Breakboard and Jumper Cabel)
+- [Analogue capacitive soil moisture sensor](https://www.berrybase.de/raspberry-pi-co/sensoren-module/feuchtigkeit/analoger-kapazitiver-bodenfeuchtesensor) with a [Housing from the 3D printer](https://www.thingiverse.com/thing:2952434)
+- [Waterpump](https://www.ebay.de/itm/333386699819?hash=item4d9f65542b:g:3OoAAOSwbcBdwHKs)
+- [5V Relay Modul](https://www.berrybase.de/raspberry-pi-co/sensoren-module/relaiskarten/5v-1-kanal-relais-modul)
+- [Jumper Cable](https://www.berrybase.de/raspberry-pi-co/raspberry-pi/kabel-adapter/gpio-csi-dsi-kabel/40pin-jumper/dupont-kabel-male-150-female-trennbar)
+- [Breakboard](https://www.berrybase.de/bauelemente/prototyping/steckboards-leiterplatten/mini-breadboard-mit-170-kontakten)
+- [Resistor with 10k Ohm](https://www.berrybase.de/bauelemente/passive-bauelemente/widerstaende/metallschichtwiderstaende/0-25w-1/525-teiliges-metallschichtwiderstands-sortiment-in-kunststoffbox)
+- Soldering iron, solder
+
+#### Software:
+- [Arduini IDE](https://www.arduino.cc/en/software)
+- our [App](https://github.com/jdk-21/lazyplants/releases)
 
 ### 3.9 Interfaces
 [This section defines the interfaces that must be supported by the application. It should contain adequate specificity, protocols, ports and logical addresses, etc. so that the software 
