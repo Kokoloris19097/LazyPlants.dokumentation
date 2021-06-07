@@ -38,6 +38,6 @@ The main postconditions for this use case are:
 
 # 6. Function Points
 
-![Complexity Table]https://raw.githubusercontent.com/Kokoloris19097/LazyPlants.dokumentation/master/Function%20Points/UC7%20Monitor.PNG)
-![Monitoring]https://raw.githubusercontent.com/Kokoloris19097/LazyPlants.dokumentation/master/Function%20Points/Complexity%20Table.PNG
+![Complexity Table](https://raw.githubusercontent.com/Kokoloris19097/LazyPlants.dokumentation/master/Function%20Points/UC7%20Monitor.PNG)
+![Monitoring](https://raw.githubusercontent.com/Kokoloris19097/LazyPlants.dokumentation/master/Function%20Points/Complexity%20Table.PNG)
 **FP: 37,72** 
