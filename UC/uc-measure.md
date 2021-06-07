@@ -16,7 +16,7 @@ n/a
 ## 2.1 Basic Flow
 
 ### Activity Diagram
-![Activity Diagram]()
+![]()
 
 # 3. Special Requirements
 - login/logout-UC has to be implemented
@@ -39,4 +39,4 @@ The main postconditions for this use case are:
 ![](https://raw.githubusercontent.com/Kokoloris19097/LazyPlants.dokumentation/master/Function%20Points/UC3%20Measure.PNG)
 ![](https://github.com/Kokoloris19097/LazyPlants.dokumentation/blob/master/Function%20Points/Complexity%20Table.PNG)
 \
-**FP: 37,72** 
+**FP: 46,92** 
