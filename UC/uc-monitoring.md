@@ -11,7 +11,6 @@ n/a
 ## 1.3 Screenshot
 n/a
 
-
 # 2. Flow of Events
 
 ## 2.1 Basic Flow
@@ -40,4 +39,5 @@ The main postconditions for this use case are:
 
 ![Complexity Table](https://raw.githubusercontent.com/Kokoloris19097/LazyPlants.dokumentation/master/Function%20Points/UC7%20Monitor.PNG)
 ![Monitoring](https://raw.githubusercontent.com/Kokoloris19097/LazyPlants.dokumentation/master/Function%20Points/Complexity%20Table.PNG)
+\
 **FP: 37,72** 
