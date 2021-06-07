@@ -5,8 +5,8 @@
 ## 1.1 Brief Description
 A programme for the ESP that allows to measure the data of the plant and sends the data to the backend. The following data are measured: watertank, soilmoisture, humidty, temperature and time.
 
-## 1.2 Mockup
-n/a
+## 1.2 Circuit diagram
+![Circuit diagram](https://raw.githubusercontent.com/Kokoloris19097/LazyPlants.dokumentation/master/assets/Schaltplan.jpg)
 
 ## 1.3 Screenshot
 n/a
