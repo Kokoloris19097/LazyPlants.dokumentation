@@ -25,7 +25,7 @@ The scope of this SAD is to show the architecture of the project. Affected are t
 
 ## 4. Use-Case View 
 ### Overview
-![ucd](./UC/ucd.jpg)
+![ucd](https://raw.githubusercontent.com/Kokoloris19097/LazyPlants.dokumentation/master/UC/Use-Case-Diagram.png)
 
 ### UC: Add Plant
 ![Use Case Diagram ADD Plant](./UC/uc-add-plant.png)
@@ -34,7 +34,7 @@ The scope of this SAD is to show the architecture of the project. Affected are t
 ![Use Case Diagram Water Plant](./UC/uc-water-plants.png)
 
 ### UC: Measure
-![UC Measure](./UC/uc3-measure.jpg)
+![UC Measure](./UC/uc-measure.png)
 
 ### UC: Sync Settings and Data
 ![UC Sync Settings](./UC/uc-sync-settings.png)
